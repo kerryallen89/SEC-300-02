@@ -9,8 +9,7 @@
 # What's Here! 🦧
 * Lectures:
   * [Week 1 - Why Cybersecurity Needs Better Risk Measurement Models](https://github.com/kerryallen89/SEC-300-02/wiki/Week-1-%7C-Lecture-1.1)
-    * More stuff
-* A lot of more stuff!
+* Labs:
 
 ## Course Stuff
 
