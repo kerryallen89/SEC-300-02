@@ -10,7 +10,7 @@
 * Lectures:
   * [Week 1 - Why Cybersecurity Needs Better Risk Measurement Models](https://github.com/kerryallen89/SEC-300-02/wiki/Week-1-%7C-Lecture-1.1)
 * Labs:
-
+  * [Week 1 - Lab 1: Catastrophe Modeling](https://github.com/kerryallen89/SEC-300-02/wiki/Week-1-%7C-Lab-1-%E2%80%90-Catastrophe-Modeling)
 ## Course Stuff
 
 ### Course Objectives:
